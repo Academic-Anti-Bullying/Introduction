@@ -15,6 +15,7 @@ This work is licensed under a Creative Commons Attribution 4.0 (cc-by-4.0) - ple
 - Sarah Hainer
 - Renuka Kudva
 - Gyan Prakash Mishra
+- Gabriela Gaona
 - Pawel Grzechnik
 - Małgorzata Anna Gazda
 - Juniper Kiss 
