@@ -7,3 +7,16 @@ This initiative was launched in 2019 as part of the [eLife Ambassador program](h
 ## License
 
 This work is licensed under a Creative Commons Attribution 4.0 (cc-by-4.0) - please attribute to 'eLife Community Ambassadors Anti-bullying Initative 2019-2020.'
+
+## Contributors
+
+- Nafisa Jadavji
+- Emily Furlong
+- Sarah Hainer
+- Renuka Kudva
+- Gyan Prakash Mishra
+- Pawel Grzechnik
+- Małgorzata Anna Gazda
+- Juniper Kiss 
+- Huanan Shi  
+- Samantha Seah
